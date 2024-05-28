@@ -19,9 +19,9 @@ Random r = new Random();
 ```java
 import java.util.Random;
 ```
-import는 직접 작성하지 않고 **단축키**인 `ctrl+shift+o`를 누릅니다.  
+import는 직접 작성하지 않고 **단축키**인 `ctrl+shift+o`를 누릅니다.
 
-##랜덤 정수 추첨
+## 랜덤 정수 추첨
 
 생성한 도구를 이용해서 랜덤한 정수를 추점할 수 있다.  
 단,생성을 위해서는 범위를 정해얗 합니다.
